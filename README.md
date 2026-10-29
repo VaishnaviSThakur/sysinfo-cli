@@ -17,7 +17,7 @@ A small Python command line tool that shows basic system information on Linux an
 python3 sysinfo.py
 python3 sysinfo.py --path /home
 
-## Example output
+## Example output (sample)
 OS      : Linux 6.8.0
 CPU     : 4 cores
 Memory  : 5.2 GB free of 7.7 GB
